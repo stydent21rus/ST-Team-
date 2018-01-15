@@ -1,0 +1,589 @@
+--------- beginning of main
+01-15 00:26:22.425  6499  6499 I AppCompatViewInflater: app:theme is now deprecated. Please move to using android:theme instead.
+01-15 00:26:22.507  6499  6499 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-15 00:26:22.624  6499  6518 E linker  : readlink("/proc/self/fd/44") failed: Permission denied [fd=44]
+01-15 00:26:22.624  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:22.647  6499  6518 E linker  : readlink("/proc/self/fd/45") failed: Permission denied [fd=45]
+01-15 00:26:22.647  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/liblog.so". Will use given path.
+01-15 00:26:22.647  6499  6518 E linker  : readlink("/proc/self/fd/46") failed: Permission denied [fd=46]
+01-15 00:26:22.647  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/libcutils.so". Will use given path.
+01-15 00:26:22.648  6499  6518 E linker  : readlink("/proc/self/fd/47") failed: Permission denied [fd=47]
+01-15 00:26:22.648  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/libMali.so". Will use given path.
+01-15 00:26:22.648  6499  6518 E linker  : readlink("/proc/self/fd/48") failed: Permission denied [fd=48]
+01-15 00:26:22.648  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/libGLESv1_CM.so". Will use given path.
+01-15 00:26:22.648  6499  6518 E linker  : readlink("/proc/self/fd/49") failed: Permission denied [fd=49]
+01-15 00:26:22.648  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/libion.so". Will use given path.
+01-15 00:26:22.648  6499  6518 E linker  : readlink("/proc/self/fd/50") failed: Permission denied [fd=50]
+01-15 00:26:22.649  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/libhardware.so". Will use given path.
+01-15 00:26:22.649  6499  6518 E linker  : readlink("/proc/self/fd/51") failed: Permission denied [fd=51]
+01-15 00:26:22.649  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/libion_mtk.so". Will use given path.
+01-15 00:26:22.649  6499  6518 E linker  : readlink("/proc/self/fd/52") failed: Permission denied [fd=52]
+01-15 00:26:22.649  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/libmtk_mali_user.so". Will use given path.
+01-15 00:26:22.649  6499  6518 E linker  : readlink("/proc/self/fd/53") failed: Permission denied [fd=53]
+01-15 00:26:22.649  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/libutils.so". Will use given path.
+01-15 00:26:22.650  6499  6518 E linker  : readlink("/proc/self/fd/54") failed: Permission denied [fd=54]
+01-15 00:26:22.650  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/libc++.so". Will use given path.
+01-15 00:26:22.650  6499  6518 E linker  : readlink("/proc/self/fd/55") failed: Permission denied [fd=55]
+01-15 00:26:22.650  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/libc.so". Will use given path.
+01-15 00:26:22.650  6499  6518 E linker  : readlink("/proc/self/fd/56") failed: Permission denied [fd=56]
+01-15 00:26:22.650  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/libm.so". Will use given path.
+01-15 00:26:22.652  6499  6518 I OpenGLRenderer: Initialized EGL, version 1.4
+01-15 00:26:22.652  6499  6518 D OpenGLRenderer: Swap behavior 1
+01-15 00:26:22.658  6499  6518 E linker  : readlink("/proc/self/fd/45") failed: Permission denied [fd=45]
+01-15 00:26:22.658  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:22.659  6499  6518 E linker  : readlink("/proc/self/fd/47") failed: Permission denied [fd=47]
+01-15 00:26:22.659  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:22.660  6499  6518 I MaliEGL : [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-15 00:26:22.660  6499  6518 I MaliEGL : [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-15 00:26:22.660  6499  6518 I MaliEGL : [Mali]max_allowed_dequeued_buffers=3
+01-15 00:26:22.783  6499  6518 E linker  : readlink("/proc/self/fd/48") failed: Permission denied [fd=48]
+01-15 00:26:22.784  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:22.869  6499  6518 E linker  : readlink("/proc/self/fd/49") failed: Permission denied [fd=49]
+01-15 00:26:22.869  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:22.882  6499  6518 E linker  : readlink("/proc/self/fd/51") failed: Permission denied [fd=51]
+01-15 00:26:22.882  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:27.472  6499  6499 I AppCompatViewInflater: app:theme is now deprecated. Please move to using android:theme instead.
+01-15 00:26:27.544  6499  6518 E linker  : readlink("/proc/self/fd/57") failed: Permission denied [fd=57]
+01-15 00:26:27.544  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:27.545  6499  6518 I MaliEGL : [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-15 00:26:27.545  6499  6518 I MaliEGL : [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-15 00:26:27.545  6499  6518 I MaliEGL : [Mali]max_allowed_dequeued_buffers=3
+01-15 00:26:27.636  6499  6518 E linker  : readlink("/proc/self/fd/64") failed: Permission denied [fd=64]
+01-15 00:26:27.636  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:27.672  6499  6518 E linker  : readlink("/proc/self/fd/66") failed: Permission denied [fd=66]
+01-15 00:26:27.672  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:27.745  6499  6518 E linker  : readlink("/proc/self/fd/48") failed: Permission denied [fd=48]
+01-15 00:26:27.745  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:27.746  6499  6518 E linker  : readlink("/proc/self/fd/48") failed: Permission denied [fd=48]
+01-15 00:26:27.747  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:27.748  6499  6518 E linker  : readlink("/proc/self/fd/47") failed: Permission denied [fd=47]
+01-15 00:26:27.748  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:27.800  6499  6528 D RomUtils: mbtool says current ROM ID is: primary
+01-15 00:26:27.821  6499  6528 E RomConfig: Failed to load /storage/emulated/0/MultiBoot/primary/config.json
+01-15 00:26:27.821  6499  6528 E RomConfig: java.io.FileNotFoundException: /storage/emulated/0/MultiBoot/primary/config.json (No such file or directory)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at java.io.FileInputStream.open(Native Method)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at java.io.FileInputStream.<init>(FileInputStream.java:99)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at java.io.FileReader.<init>(FileReader.java:58)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at com.github.chenxiaolong.dualbootpatcher.RomConfig.loadFile(RomConfig.java:221)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at com.github.chenxiaolong.dualbootpatcher.RomConfig.getConfig(RomConfig.java:79)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at com.github.chenxiaolong.dualbootpatcher.RomUtils.loadConfig(RomUtils.java:300)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at com.github.chenxiaolong.dualbootpatcher.RomUtils.getRoms(RomUtils.java:275)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at com.github.chenxiaolong.dualbootpatcher.RomUtils.getCurrentRom(RomUtils.java:251)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at com.github.chenxiaolong.dualbootpatcher.appsharing.AppSharingSettingsFragment$GetInfo.loadInBackground(AppSharingSettingsFragment.java:319)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at com.github.chenxiaolong.dualbootpatcher.appsharing.AppSharingSettingsFragment$GetInfo.loadInBackground(AppSharingSettingsFragment.java:292)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at android.support.v4.b.a.onLoadInBackground(AsyncTaskLoader.java:306)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at android.support.v4.b.a$a.a(AsyncTaskLoader.java:59)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at android.support.v4.b.a$a.a(AsyncTaskLoader.java:47)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at android.support.v4.b.d$2.call(ModernAsyncTask.java:138)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+01-15 00:26:27.821  6499  6528 E RomConfig: 	at java.lang.Thread.run(Thread.java:761)
+01-15 00:26:27.823  6499  6528 W System.err: com.github.chenxiaolong.dualbootpatcher.Version$VersionParseException: Invalid version number: 
+01-15 00:26:27.823  6499  6528 W System.err: 	at com.github.chenxiaolong.dualbootpatcher.Version.parseVersion(Version.java:58)
+01-15 00:26:27.823  6499  6528 W System.err: 	at com.github.chenxiaolong.dualbootpatcher.Version.<init>(Version.java:50)
+01-15 00:26:27.823  6499  6528 W System.err: 	at com.github.chenxiaolong.dualbootpatcher.socket.MbtoolUtils.getSystemMbtoolVersion(MbtoolUtils.java:47)
+01-15 00:26:27.824  6499  6528 W System.err: 	at com.github.chenxiaolong.dualbootpatcher.appsharing.AppSharingSettingsFragment$GetInfo.loadInBackground(AppSharingSettingsFragment.java:332)
+01-15 00:26:27.824  6499  6528 W System.err: 	at com.github.chenxiaolong.dualbootpatcher.appsharing.AppSharingSettingsFragment$GetInfo.loadInBackground(AppSharingSettingsFragment.java:292)
+01-15 00:26:27.824  6499  6528 W System.err: 	at android.support.v4.b.a.onLoadInBackground(AsyncTaskLoader.java:306)
+01-15 00:26:27.824  6499  6528 W System.err: 	at android.support.v4.b.a$a.a(AsyncTaskLoader.java:59)
+01-15 00:26:27.824  6499  6528 W System.err: 	at android.support.v4.b.a$a.a(AsyncTaskLoader.java:47)
+01-15 00:26:27.824  6499  6528 W System.err: 	at android.support.v4.b.d$2.call(ModernAsyncTask.java:138)
+01-15 00:26:27.824  6499  6528 W System.err: 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+01-15 00:26:27.824  6499  6528 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+01-15 00:26:27.824  6499  6528 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+01-15 00:26:27.824  6499  6528 W System.err: 	at java.lang.Thread.run(Thread.java:761)
+01-15 00:26:27.910  6499  6518 E linker  : readlink("/proc/self/fd/50") failed: Permission denied [fd=50]
+01-15 00:26:27.910  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:27.911  6499  6518 I MaliEGL : [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-15 00:26:27.911  6499  6518 I MaliEGL : [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-15 00:26:27.911  6499  6518 I MaliEGL : [Mali]max_allowed_dequeued_buffers=3
+01-15 00:26:27.922  6499  6518 E linker  : readlink("/proc/self/fd/51") failed: Permission denied [fd=51]
+01-15 00:26:27.923  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:27.971  6499  6518 E linker  : readlink("/proc/self/fd/54") failed: Permission denied [fd=54]
+01-15 00:26:27.971  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:27.973  6499  6518 I MaliEGL : [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-15 00:26:27.973  6499  6518 I MaliEGL : [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-15 00:26:27.973  6499  6518 I MaliEGL : [Mali]max_allowed_dequeued_buffers=3
+01-15 00:26:27.976  6499  6518 E linker  : readlink("/proc/self/fd/44") failed: Permission denied [fd=44]
+01-15 00:26:27.976  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:27.977  6499  6518 E linker  : readlink("/proc/self/fd/44") failed: Permission denied [fd=44]
+01-15 00:26:27.977  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:27.978  6499  6518 E linker  : readlink("/proc/self/fd/44") failed: Permission denied [fd=44]
+01-15 00:26:27.978  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:27.993  6499  6518 E linker  : readlink("/proc/self/fd/54") failed: Permission denied [fd=54]
+01-15 00:26:27.993  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:31.361  6499  6518 E linker  : readlink("/proc/self/fd/46") failed: Permission denied [fd=46]
+01-15 00:26:31.362  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:31.366  6499  6518 E linker  : readlink("/proc/self/fd/46") failed: Permission denied [fd=46]
+01-15 00:26:31.366  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:32.042  6499  6518 E linker  : readlink("/proc/self/fd/48") failed: Permission denied [fd=48]
+01-15 00:26:32.043  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:32.084  6499  6518 E linker  : readlink("/proc/self/fd/50") failed: Permission denied [fd=50]
+01-15 00:26:32.084  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:33.518  6499  6499 D SwitcherService: onCreate()
+01-15 00:26:33.527  6499  6499 D SwitcherService: onBind(intent=Intent { cmp=com.github.chenxiaolong.dualbootpatcher.snapshot/com.github.chenxiaolong.dualbootpatcher.switcher.SwitcherService })
+01-15 00:26:33.528  6499  6499 D SwitcherService: onStartCommand(intent=Intent { cmp=com.github.chenxiaolong.dualbootpatcher.snapshot/com.github.chenxiaolong.dualbootpatcher.switcher.SwitcherService }, flags=0, startId=1)
+01-15 00:26:33.657  6499  6499 D SwitcherService: Added runnable com.github.chenxiaolong.dualbootpatcher.switcher.service.GetRomsStateTask@fc594e7 to thread pool: default
+01-15 00:26:33.728  6499  6532 D RomUtils: mbtool says current ROM ID is: primary
+01-15 00:26:33.810  6499  6532 E linker  : readlink("/proc/self/fd/55") failed: Permission denied [fd=55]
+01-15 00:26:33.810  6499  6532 E linker  : warning: unable to get realpath for the library "/data/app/com.github.chenxiaolong.dualbootpatcher.snapshot-1/lib/arm/libjnidispatch.so". Will use given path.
+01-15 00:26:33.820  6499  6532 E linker  : readlink("/proc/self/fd/46") failed: Permission denied [fd=46]
+01-15 00:26:33.820  6499  6532 E linker  : warning: unable to get realpath for the library "/data/app/com.github.chenxiaolong.dualbootpatcher.snapshot-1/lib/arm/libmbdevice.so". Will use given path.
+01-15 00:26:33.822  6499  6532 E linker  : readlink("/proc/self/fd/48") failed: Permission denied [fd=48]
+01-15 00:26:33.822  6499  6532 E linker  : warning: unable to get realpath for the library "/data/app/com.github.chenxiaolong.dualbootpatcher.snapshot-1/lib/arm/libmbcommon.so". Will use given path.
+01-15 00:26:33.825  6499  6532 E linker  : readlink("/proc/self/fd/66") failed: Permission denied [fd=66]
+01-15 00:26:33.825  6499  6532 E linker  : warning: unable to get realpath for the library "/data/app/com.github.chenxiaolong.dualbootpatcher.snapshot-1/lib/arm/libc++_shared.so". Will use given path.
+01-15 00:26:33.874  6499  6532 E SwitcherUtils: Failed to determine boot partition
+01-15 00:26:33.875  6499  6532 D GetRomsStateTask: It took 129 milliseconds to complete boot image checks
+01-15 00:26:33.875  6499  6532 D GetRomsStateTask: Current boot partition ROM ID: null
+01-15 00:26:33.875  6499  6532 D GetRomsStateTask: Kernel status: UNKNOWN
+01-15 00:26:33.876  6499  6532 D SwitcherService: Attempting to stop service
+01-15 00:26:33.876  6499  6532 D SwitcherService: Not stopping: # of operations: 0, is bound: true
+01-15 00:26:35.456  6499  6499 I AppCompatViewInflater: app:theme is now deprecated. Please move to using android:theme instead.
+01-15 00:26:35.474  6499  6499 W System.err: com.github.chenxiaolong.dualbootpatcher.Version$VersionParseException: Invalid version number: 
+01-15 00:26:35.474  6499  6499 W System.err: 	at com.github.chenxiaolong.dualbootpatcher.Version.parseVersion(Version.java:58)
+01-15 00:26:35.474  6499  6499 W System.err: 	at com.github.chenxiaolong.dualbootpatcher.Version.<init>(Version.java:50)
+01-15 00:26:35.474  6499  6499 W System.err: 	at com.github.chenxiaolong.dualbootpatcher.socket.MbtoolUtils.getSystemMbtoolVersion(MbtoolUtils.java:47)
+01-15 00:26:35.474  6499  6499 W System.err: 	at com.github.chenxiaolong.dualbootpatcher.switcher.RomDetailActivity.updateMbtoolStatus(RomDetailActivity.java:450)
+01-15 00:26:35.474  6499  6499 W System.err: 	at com.github.chenxiaolong.dualbootpatcher.switcher.RomDetailActivity.onCreate(RomDetailActivity.java:295)
+01-15 00:26:35.474  6499  6499 W System.err: 	at android.app.Activity.performCreate(Activity.java:6738)
+01-15 00:26:35.474  6499  6499 W System.err: 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1119)
+01-15 00:26:35.474  6499  6499 W System.err: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2652)
+01-15 00:26:35.474  6499  6499 W System.err: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2766)
+01-15 00:26:35.474  6499  6499 W System.err: 	at android.app.ActivityThread.-wrap12(ActivityThread.java)
+01-15 00:26:35.474  6499  6499 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1507)
+01-15 00:26:35.474  6499  6499 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-15 00:26:35.474  6499  6499 W System.err: 	at android.os.Looper.loop(Looper.java:154)
+01-15 00:26:35.474  6499  6499 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:6236)
+01-15 00:26:35.474  6499  6499 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-15 00:26:35.475  6499  6499 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:891)
+01-15 00:26:35.475  6499  6499 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:781)
+01-15 00:26:35.524  6499  6518 E linker  : readlink("/proc/self/fd/57") failed: Permission denied [fd=57]
+01-15 00:26:35.524  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:35.525  6499  6518 I MaliEGL : [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-15 00:26:35.525  6499  6518 I MaliEGL : [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-15 00:26:35.525  6499  6518 I MaliEGL : [Mali]max_allowed_dequeued_buffers=3
+01-15 00:26:35.632  6499  6499 D SwitcherService: Added runnable com.github.chenxiaolong.dualbootpatcher.switcher.service.CacheWallpaperTask@b10871a to thread pool: default
+01-15 00:26:35.633  6499  6499 D SwitcherService: Added runnable com.github.chenxiaolong.dualbootpatcher.switcher.service.GetRomDetailsTask@15d2428 to thread pool: default
+01-15 00:26:35.634  6499  6499 D SwitcherService: onStartCommand(intent=Intent { cmp=com.github.chenxiaolong.dualbootpatcher.snapshot/com.github.chenxiaolong.dualbootpatcher.switcher.SwitcherService }, flags=0, startId=2)
+01-15 00:26:35.648  6499  6518 E linker  : readlink("/proc/self/fd/59") failed: Permission denied [fd=59]
+01-15 00:26:35.648  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:35.705  6499  6536 E CacheWallpaperTask: mbtool communication error
+01-15 00:26:35.705  6499  6536 E CacheWallpaperTask: java.io.FileNotFoundException: /storage/emulated/0/MultiBoot/primary/wallpaper.webp (No such file or directory)
+01-15 00:26:35.705  6499  6536 E CacheWallpaperTask: 	at java.io.FileOutputStream.open(Native Method)
+01-15 00:26:35.705  6499  6536 E CacheWallpaperTask: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:221)
+01-15 00:26:35.705  6499  6536 E CacheWallpaperTask: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:169)
+01-15 00:26:35.705  6499  6536 E CacheWallpaperTask: 	at com.github.chenxiaolong.dualbootpatcher.RomUtils.cacheWallpaper(RomUtils.java:443)
+01-15 00:26:35.705  6499  6536 E CacheWallpaperTask: 	at com.github.chenxiaolong.dualbootpatcher.switcher.service.CacheWallpaperTask.execute(CacheWallpaperTask.java:66)
+01-15 00:26:35.705  6499  6536 E CacheWallpaperTask: 	at com.github.chenxiaolong.dualbootpatcher.switcher.service.BaseServiceTask.run(BaseServiceTask.java:125)
+01-15 00:26:35.705  6499  6536 E CacheWallpaperTask: 	at com.github.chenxiaolong.dualbootpatcher.ThreadPoolService$1.run(ThreadPoolService.java:181)
+01-15 00:26:35.705  6499  6536 E CacheWallpaperTask: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+01-15 00:26:35.705  6499  6536 E CacheWallpaperTask: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+01-15 00:26:35.705  6499  6536 E CacheWallpaperTask: 	at java.lang.Thread.run(Thread.java:761)
+01-15 00:26:35.706  6499  6536 D SwitcherService: Attempting to stop service
+01-15 00:26:35.707  6499  6536 D SwitcherService: Not stopping: # of operations: 1, is bound: true
+01-15 00:26:35.711  6499  6518 E linker  : readlink("/proc/self/fd/57") failed: Permission denied [fd=57]
+01-15 00:26:35.711  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:35.731  6499  6518 E linker  : readlink("/proc/self/fd/46") failed: Permission denied [fd=46]
+01-15 00:26:35.731  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:35.732  6499  6518 E linker  : readlink("/proc/self/fd/46") failed: Permission denied [fd=46]
+01-15 00:26:35.732  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:35.733  6499  6518 E linker  : readlink("/proc/self/fd/46") failed: Permission denied [fd=46]
+01-15 00:26:35.733  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:35.734  6499  6518 E linker  : readlink("/proc/self/fd/46") failed: Permission denied [fd=46]
+01-15 00:26:35.734  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:36.473  6499  6532 D SwitcherService: Attempting to stop service
+01-15 00:26:36.473  6499  6532 D SwitcherService: Not stopping: # of operations: 0, is bound: true
+01-15 00:26:41.281  6499  6499 D SwitcherService: onUnbind(intent=Intent { cmp=com.github.chenxiaolong.dualbootpatcher.snapshot/com.github.chenxiaolong.dualbootpatcher.switcher.SwitcherService })
+01-15 00:26:41.281  6499  6499 D SwitcherService: Attempting to stop service
+01-15 00:26:41.281  6499  6499 D SwitcherService: Calling stopSelf(): there are no more operations
+01-15 00:26:41.297  6499  6518 E linker  : readlink("/proc/self/fd/44") failed: Permission denied [fd=44]
+01-15 00:26:41.297  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:41.298  6499  6518 E linker  : readlink("/proc/self/fd/44") failed: Permission denied [fd=44]
+01-15 00:26:41.298  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:41.299  6499  6518 E linker  : readlink("/proc/self/fd/44") failed: Permission denied [fd=44]
+01-15 00:26:41.299  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:41.305  6499  6499 D SwitcherService: onDestroy()
+01-15 00:26:51.481  6499  6518 E linker  : readlink("/proc/self/fd/47") failed: Permission denied [fd=47]
+01-15 00:26:51.481  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:51.482  6499  6499 D SwitcherService: onCreate()
+01-15 00:26:51.482  6499  6518 I MaliEGL : [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-15 00:26:51.482  6499  6518 I MaliEGL : [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-15 00:26:51.482  6499  6518 I MaliEGL : [Mali]max_allowed_dequeued_buffers=3
+01-15 00:26:51.488  6499  6499 D SwitcherService: onBind(intent=Intent { cmp=com.github.chenxiaolong.dualbootpatcher.snapshot/com.github.chenxiaolong.dualbootpatcher.switcher.SwitcherService })
+01-15 00:26:51.489  6499  6499 D SwitcherService: onStartCommand(intent=Intent { cmp=com.github.chenxiaolong.dualbootpatcher.snapshot/com.github.chenxiaolong.dualbootpatcher.switcher.SwitcherService }, flags=0, startId=1)
+01-15 00:26:51.517  6499  6518 E linker  : readlink("/proc/self/fd/49") failed: Permission denied [fd=49]
+01-15 00:26:51.517  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:51.617  6499  6518 E linker  : readlink("/proc/self/fd/52") failed: Permission denied [fd=52]
+01-15 00:26:51.617  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:51.624  6499  6518 E linker  : readlink("/proc/self/fd/54") failed: Permission denied [fd=54]
+01-15 00:26:51.625  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:58.226  6499  6499 D SwitcherService: Added runnable com.github.chenxiaolong.dualbootpatcher.switcher.service.CreateRamdiskUpdaterTask@428937b to thread pool: default
+01-15 00:26:58.292  6499  6572 D CreateRamdiskUpdaterTask: Creating ramdisk updater zip for primary (version: 9.3.0.r330.g6e79cd83.PR963-SNAPSHOT)
+01-15 00:26:58.303  6499  6518 E linker  : readlink("/proc/self/fd/67") failed: Permission denied [fd=67]
+01-15 00:26:58.303  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:58.304  6499  6518 I MaliEGL : [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-15 00:26:58.304  6499  6518 I MaliEGL : [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-15 00:26:58.304  6499  6518 I MaliEGL : [Mali]max_allowed_dequeued_buffers=3
+01-15 00:26:58.314  6499  6572 D RomUtils: mbtool says current ROM ID is: primary
+01-15 00:26:58.322  6499  6518 E linker  : readlink("/proc/self/fd/58") failed: Permission denied [fd=58]
+01-15 00:26:58.322  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:58.344  6499  6518 E linker  : readlink("/proc/self/fd/59") failed: Permission denied [fd=59]
+01-15 00:26:58.345  6499  6518 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:26:58.420  6499  6572 E MbtoolInterfaceV3: Failed to determine boot partition
+01-15 00:26:58.421  6499  6572 E CreateRamdiskUpdaterTask: Failed to reflash boot image
+01-15 00:26:58.421  6499  6572 E CreateRamdiskUpdaterTask: The kernel has not been backed up
+--------- beginning of main
+01-15 00:55:19.014  3639  3639 I AppCompatViewInflater: app:theme is now deprecated. Please move to using android:theme instead.
+01-15 00:55:19.156  3639  3639 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-15 00:55:19.297  3639  3659 E linker  : readlink("/proc/self/fd/44") failed: Permission denied [fd=44]
+01-15 00:55:19.298  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:19.299  3639  3659 E linker  : readlink("/proc/self/fd/45") failed: Permission denied [fd=45]
+01-15 00:55:19.299  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/liblog.so". Will use given path.
+01-15 00:55:19.299  3639  3659 E linker  : readlink("/proc/self/fd/46") failed: Permission denied [fd=46]
+01-15 00:55:19.299  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/libcutils.so". Will use given path.
+01-15 00:55:19.299  3639  3659 E linker  : readlink("/proc/self/fd/47") failed: Permission denied [fd=47]
+01-15 00:55:19.300  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/libMali.so". Will use given path.
+01-15 00:55:19.300  3639  3659 E linker  : readlink("/proc/self/fd/48") failed: Permission denied [fd=48]
+01-15 00:55:19.300  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/libGLESv1_CM.so". Will use given path.
+01-15 00:55:19.300  3639  3659 E linker  : readlink("/proc/self/fd/49") failed: Permission denied [fd=49]
+01-15 00:55:19.300  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/libion.so". Will use given path.
+01-15 00:55:19.301  3639  3659 E linker  : readlink("/proc/self/fd/50") failed: Permission denied [fd=50]
+01-15 00:55:19.301  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/libhardware.so". Will use given path.
+01-15 00:55:19.301  3639  3659 E linker  : readlink("/proc/self/fd/51") failed: Permission denied [fd=51]
+01-15 00:55:19.301  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/libion_mtk.so". Will use given path.
+01-15 00:55:19.301  3639  3659 E linker  : readlink("/proc/self/fd/52") failed: Permission denied [fd=52]
+01-15 00:55:19.302  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/libmtk_mali_user.so". Will use given path.
+01-15 00:55:19.302  3639  3659 E linker  : readlink("/proc/self/fd/53") failed: Permission denied [fd=53]
+01-15 00:55:19.302  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/libutils.so". Will use given path.
+01-15 00:55:19.302  3639  3659 E linker  : readlink("/proc/self/fd/54") failed: Permission denied [fd=54]
+01-15 00:55:19.302  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/libc++.so". Will use given path.
+01-15 00:55:19.303  3639  3659 E linker  : readlink("/proc/self/fd/55") failed: Permission denied [fd=55]
+01-15 00:55:19.303  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/libc.so". Will use given path.
+01-15 00:55:19.303  3639  3659 E linker  : readlink("/proc/self/fd/56") failed: Permission denied [fd=56]
+01-15 00:55:19.303  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/libm.so". Will use given path.
+01-15 00:55:19.305  3639  3659 I OpenGLRenderer: Initialized EGL, version 1.4
+01-15 00:55:19.305  3639  3659 D OpenGLRenderer: Swap behavior 1
+01-15 00:55:19.311  3639  3659 E linker  : readlink("/proc/self/fd/45") failed: Permission denied [fd=45]
+01-15 00:55:19.311  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:19.312  3639  3659 E linker  : readlink("/proc/self/fd/47") failed: Permission denied [fd=47]
+01-15 00:55:19.312  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:19.313  3639  3659 I MaliEGL : [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-15 00:55:19.313  3639  3659 I MaliEGL : [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-15 00:55:19.313  3639  3659 I MaliEGL : [Mali]max_allowed_dequeued_buffers=3
+01-15 00:55:19.443  3639  3659 E linker  : readlink("/proc/self/fd/48") failed: Permission denied [fd=48]
+01-15 00:55:19.443  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:19.499  3639  3659 E linker  : readlink("/proc/self/fd/49") failed: Permission denied [fd=49]
+01-15 00:55:19.499  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:19.511  3639  3659 E linker  : readlink("/proc/self/fd/50") failed: Permission denied [fd=50]
+01-15 00:55:19.512  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:19.566  3639  3659 E linker  : readlink("/proc/self/fd/55") failed: Permission denied [fd=55]
+01-15 00:55:19.566  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:23.117  3639  3639 I AppCompatViewInflater: app:theme is now deprecated. Please move to using android:theme instead.
+01-15 00:55:23.165  3639  3639 D SwitcherService: onCreate()
+01-15 00:55:23.175  3639  3639 D SwitcherService: onBind(intent=Intent { cmp=com.github.chenxiaolong.dualbootpatcher.snapshot/com.github.chenxiaolong.dualbootpatcher.switcher.SwitcherService })
+01-15 00:55:23.176  3639  3639 D SwitcherService: onStartCommand(intent=Intent { cmp=com.github.chenxiaolong.dualbootpatcher.snapshot/com.github.chenxiaolong.dualbootpatcher.switcher.SwitcherService }, flags=0, startId=1)
+01-15 00:55:23.219  3639  3659 E linker  : readlink("/proc/self/fd/59") failed: Permission denied [fd=59]
+01-15 00:55:23.219  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:23.221  3639  3659 I MaliEGL : [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-15 00:55:23.221  3639  3659 I MaliEGL : [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-15 00:55:23.221  3639  3659 I MaliEGL : [Mali]max_allowed_dequeued_buffers=3
+01-15 00:55:23.377  3639  3639 D SwitcherService: Added runnable com.github.chenxiaolong.dualbootpatcher.switcher.service.BootUIActionTask@d31ea40 to thread pool: default
+01-15 00:55:23.387  3639  3670 E MbtoolConnection: Could not connect to mbtool socket
+01-15 00:55:23.387  3639  3670 E MbtoolConnection: java.io.IOException: Connection refused
+01-15 00:55:23.387  3639  3670 E MbtoolConnection: 	at android.net.LocalSocketImpl.connectLocal(Native Method)
+01-15 00:55:23.387  3639  3670 E MbtoolConnection: 	at android.net.LocalSocketImpl.connect(LocalSocketImpl.java:292)
+01-15 00:55:23.387  3639  3670 E MbtoolConnection: 	at android.net.LocalSocket.connect(LocalSocket.java:131)
+01-15 00:55:23.387  3639  3670 E MbtoolConnection: 	at com.github.chenxiaolong.dualbootpatcher.socket.MbtoolConnection.initConnectToSocket(MbtoolConnection.java:113)
+01-15 00:55:23.387  3639  3670 E MbtoolConnection: 	at com.github.chenxiaolong.dualbootpatcher.socket.MbtoolConnection.connect(MbtoolConnection.java:194)
+01-15 00:55:23.387  3639  3670 E MbtoolConnection: 	at com.github.chenxiaolong.dualbootpatcher.socket.MbtoolConnection.<init>(MbtoolConnection.java:216)
+01-15 00:55:23.387  3639  3670 E MbtoolConnection: 	at com.github.chenxiaolong.dualbootpatcher.switcher.service.BootUIActionTask.execute(BootUIActionTask.java:313)
+01-15 00:55:23.387  3639  3670 E MbtoolConnection: 	at com.github.chenxiaolong.dualbootpatcher.switcher.service.BaseServiceTask.run(BaseServiceTask.java:125)
+01-15 00:55:23.387  3639  3670 E MbtoolConnection: 	at com.github.chenxiaolong.dualbootpatcher.ThreadPoolService$1.run(ThreadPoolService.java:181)
+01-15 00:55:23.387  3639  3670 E MbtoolConnection: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+01-15 00:55:23.387  3639  3670 E MbtoolConnection: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+01-15 00:55:23.387  3639  3670 E MbtoolConnection: 	at java.lang.Thread.run(Thread.java:761)
+01-15 00:55:23.389  3639  3670 E BootUIActionTask: mbtool error
+01-15 00:55:23.389  3639  3670 E BootUIActionTask: com.github.chenxiaolong.dualbootpatcher.socket.exceptions.MbtoolException: java.io.IOException: Connection refused
+01-15 00:55:23.389  3639  3670 E BootUIActionTask: 	at com.github.chenxiaolong.dualbootpatcher.socket.MbtoolConnection.initConnectToSocket(MbtoolConnection.java:117)
+01-15 00:55:23.389  3639  3670 E BootUIActionTask: 	at com.github.chenxiaolong.dualbootpatcher.socket.MbtoolConnection.connect(MbtoolConnection.java:194)
+01-15 00:55:23.389  3639  3670 E BootUIActionTask: 	at com.github.chenxiaolong.dualbootpatcher.socket.MbtoolConnection.<init>(MbtoolConnection.java:216)
+01-15 00:55:23.389  3639  3670 E BootUIActionTask: 	at com.github.chenxiaolong.dualbootpatcher.switcher.service.BootUIActionTask.execute(BootUIActionTask.java:313)
+01-15 00:55:23.389  3639  3670 E BootUIActionTask: 	at com.github.chenxiaolong.dualbootpatcher.switcher.service.BaseServiceTask.run(BaseServiceTask.java:125)
+01-15 00:55:23.389  3639  3670 E BootUIActionTask: 	at com.github.chenxiaolong.dualbootpatcher.ThreadPoolService$1.run(ThreadPoolService.java:181)
+01-15 00:55:23.389  3639  3670 E BootUIActionTask: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+01-15 00:55:23.389  3639  3670 E BootUIActionTask: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+01-15 00:55:23.389  3639  3670 E BootUIActionTask: 	at java.lang.Thread.run(Thread.java:761)
+01-15 00:55:23.389  3639  3670 E BootUIActionTask: Caused by: java.io.IOException: Connection refused
+01-15 00:55:23.389  3639  3670 E BootUIActionTask: 	at android.net.LocalSocketImpl.connectLocal(Native Method)
+01-15 00:55:23.389  3639  3670 E BootUIActionTask: 	at android.net.LocalSocketImpl.connect(LocalSocketImpl.java:292)
+01-15 00:55:23.389  3639  3670 E BootUIActionTask: 	at android.net.LocalSocket.connect(LocalSocket.java:131)
+01-15 00:55:23.389  3639  3670 E BootUIActionTask: 	at com.github.chenxiaolong.dualbootpatcher.socket.MbtoolConnection.initConnectToSocket(MbtoolConnection.java:113)
+01-15 00:55:23.389  3639  3670 E BootUIActionTask: 	... 8 more
+01-15 00:55:23.402  3639  3659 E linker  : readlink("/proc/self/fd/75") failed: Permission denied [fd=75]
+01-15 00:55:23.402  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:23.454  3639  3659 E linker  : readlink("/proc/self/fd/71") failed: Permission denied [fd=71]
+01-15 00:55:23.455  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:23.473  3639  3659 E linker  : readlink("/proc/self/fd/48") failed: Permission denied [fd=48]
+01-15 00:55:23.473  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:23.474  3639  3659 E linker  : readlink("/proc/self/fd/48") failed: Permission denied [fd=48]
+01-15 00:55:23.474  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:23.475  3639  3659 E linker  : readlink("/proc/self/fd/47") failed: Permission denied [fd=47]
+01-15 00:55:23.475  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:23.476  3639  3659 E linker  : readlink("/proc/self/fd/46") failed: Permission denied [fd=46]
+01-15 00:55:23.476  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:23.531  3639  3659 E linker  : readlink("/proc/self/fd/51") failed: Permission denied [fd=51]
+01-15 00:55:23.531  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:23.531  3639  3659 I MaliEGL : [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-15 00:55:23.531  3639  3659 I MaliEGL : [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-15 00:55:23.531  3639  3659 I MaliEGL : [Mali]max_allowed_dequeued_buffers=3
+01-15 00:55:23.533  3639  3639 D SwitcherService: Added runnable com.github.chenxiaolong.dualbootpatcher.switcher.service.UpdateMbtoolWithRootTask@a26ce46 to thread pool: default
+01-15 00:55:23.533  3639  3639 D SwitcherService: onStartCommand(intent=Intent { cmp=com.github.chenxiaolong.dualbootpatcher.snapshot/com.github.chenxiaolong.dualbootpatcher.switcher.SwitcherService }, flags=0, startId=2)
+01-15 00:55:23.658  3639  3674 E MbtoolConnection: Could not connect to mbtool socket
+01-15 00:55:23.658  3639  3674 E MbtoolConnection: java.io.IOException: Connection refused
+01-15 00:55:23.658  3639  3674 E MbtoolConnection: 	at android.net.LocalSocketImpl.connectLocal(Native Method)
+01-15 00:55:23.658  3639  3674 E MbtoolConnection: 	at android.net.LocalSocketImpl.connect(LocalSocketImpl.java:292)
+01-15 00:55:23.658  3639  3674 E MbtoolConnection: 	at android.net.LocalSocket.connect(LocalSocket.java:131)
+01-15 00:55:23.658  3639  3674 E MbtoolConnection: 	at com.github.chenxiaolong.dualbootpatcher.socket.MbtoolConnection.initConnectToSocket(MbtoolConnection.java:113)
+01-15 00:55:23.658  3639  3674 E MbtoolConnection: 	at com.github.chenxiaolong.dualbootpatcher.socket.MbtoolConnection.replaceViaSignedExec(MbtoolConnection.java:354)
+01-15 00:55:23.658  3639  3674 E MbtoolConnection: 	at com.github.chenxiaolong.dualbootpatcher.switcher.service.UpdateMbtoolWithRootTask.execute(UpdateMbtoolWithRootTask.java:53)
+01-15 00:55:23.658  3639  3674 E MbtoolConnection: 	at com.github.chenxiaolong.dualbootpatcher.switcher.service.BaseServiceTask.run(BaseServiceTask.java:125)
+01-15 00:55:23.658  3639  3674 E MbtoolConnection: 	at com.github.chenxiaolong.dualbootpatcher.ThreadPoolService$1.run(ThreadPoolService.java:181)
+01-15 00:55:23.658  3639  3674 E MbtoolConnection: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+01-15 00:55:23.658  3639  3674 E MbtoolConnection: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+01-15 00:55:23.658  3639  3674 E MbtoolConnection: 	at java.lang.Thread.run(Thread.java:761)
+01-15 00:55:23.658  3639  3674 W MbtoolConnection: mbtool error
+01-15 00:55:23.658  3639  3674 W MbtoolConnection: com.github.chenxiaolong.dualbootpatcher.socket.exceptions.MbtoolException: java.io.IOException: Connection refused
+01-15 00:55:23.658  3639  3674 W MbtoolConnection: 	at com.github.chenxiaolong.dualbootpatcher.socket.MbtoolConnection.initConnectToSocket(MbtoolConnection.java:117)
+01-15 00:55:23.658  3639  3674 W MbtoolConnection: 	at com.github.chenxiaolong.dualbootpatcher.socket.MbtoolConnection.replaceViaSignedExec(MbtoolConnection.java:354)
+01-15 00:55:23.658  3639  3674 W MbtoolConnection: 	at com.github.chenxiaolong.dualbootpatcher.switcher.service.UpdateMbtoolWithRootTask.execute(UpdateMbtoolWithRootTask.java:53)
+01-15 00:55:23.658  3639  3674 W MbtoolConnection: 	at com.github.chenxiaolong.dualbootpatcher.switcher.service.BaseServiceTask.run(BaseServiceTask.java:125)
+01-15 00:55:23.658  3639  3674 W MbtoolConnection: 	at com.github.chenxiaolong.dualbootpatcher.ThreadPoolService$1.run(ThreadPoolService.java:181)
+01-15 00:55:23.658  3639  3674 W MbtoolConnection: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+01-15 00:55:23.658  3639  3674 W MbtoolConnection: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+01-15 00:55:23.658  3639  3674 W MbtoolConnection: 	at java.lang.Thread.run(Thread.java:761)
+01-15 00:55:23.658  3639  3674 W MbtoolConnection: Caused by: java.io.IOException: Connection refused
+01-15 00:55:23.658  3639  3674 W MbtoolConnection: 	at android.net.LocalSocketImpl.connectLocal(Native Method)
+01-15 00:55:23.658  3639  3674 W MbtoolConnection: 	at android.net.LocalSocketImpl.connect(LocalSocketImpl.java:292)
+01-15 00:55:23.658  3639  3674 W MbtoolConnection: 	at android.net.LocalSocket.connect(LocalSocket.java:131)
+01-15 00:55:23.658  3639  3674 W MbtoolConnection: 	at com.github.chenxiaolong.dualbootpatcher.socket.MbtoolConnection.initConnectToSocket(MbtoolConnection.java:113)
+01-15 00:55:23.658  3639  3674 W MbtoolConnection: 	... 7 more
+01-15 00:55:23.658  3639  3674 W UpdateMbtoolWithRootTask: Failed to update mbtool with SignedExec method
+01-15 00:55:23.664  3639  3670 D SwitcherService: Attempting to stop service
+01-15 00:55:23.664  3639  3670 D SwitcherService: Not stopping: # of operations: 1, is bound: true
+01-15 00:55:23.707  3639  3659 E linker  : readlink("/proc/self/fd/59") failed: Permission denied [fd=59]
+01-15 00:55:23.707  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:23.708  3639  3659 I MaliEGL : [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-15 00:55:23.708  3639  3659 I MaliEGL : [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-15 00:55:23.708  3639  3659 I MaliEGL : [Mali]max_allowed_dequeued_buffers=3
+01-15 00:55:23.722  3639  3659 E linker  : readlink("/proc/self/fd/60") failed: Permission denied [fd=60]
+01-15 00:55:23.722  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:23.806  3639  3659 E linker  : readlink("/proc/self/fd/71") failed: Permission denied [fd=71]
+01-15 00:55:23.806  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:25.584  3639  3692 D CommandUtils: Root command output: mountpoint: /mnt/mb_tmp: No such file or directory
+01-15 00:55:25.970  3639  3692 D CommandUtils: Root command output: mv: bad '/mnt/mb_tmp/mbtool': No such file or directory
+01-15 00:55:26.369  3639  3692 D CommandUtils: Root command output: [2018-01-14T21:55:26.367187000+00:00][3716:3716][debug] mbtool/sepolpatch: Policy version: 30
+01-15 00:55:26.654  3639  3659 E linker  : readlink("/proc/self/fd/71") failed: Permission denied [fd=71]
+01-15 00:55:26.654  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:26.837  3639  3692 D CommandUtils: Root command output: [2018-01-14T21:55:26.836639000+00:00][3716:3716][info] mbtool/multiboot: Current process context: u:r:su:s0
+01-15 00:55:26.841  3639  3692 D CommandUtils: Root command output: [2018-01-14T21:55:26.841408000+00:00][3716:3716][verbose] mbtool/multiboot: Setting process context: u:r:mb_exec:s0
+01-15 00:55:27.413  3639  3692 D CommandUtils: Root command output: Waiting for daemon to start... OK
+01-15 00:55:27.414  3639  3674 D UpdateMbtoolWithRootTask: Attempting mbtool connection after update
+01-15 00:55:27.487  3639  3674 D UpdateMbtoolWithRootTask: mbtool was updated to 9.3.0.r330.g6e79cd83.PR963
+01-15 00:55:27.488  3639  3674 D SwitcherService: Attempting to stop service
+01-15 00:55:27.488  3639  3674 D SwitcherService: Not stopping: # of operations: 0, is bound: true
+01-15 00:55:27.495  3639  3659 E linker  : readlink("/proc/self/fd/48") failed: Permission denied [fd=48]
+01-15 00:55:27.495  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:27.496  3639  3659 E linker  : readlink("/proc/self/fd/48") failed: Permission denied [fd=48]
+01-15 00:55:27.496  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:27.496  3639  3659 E linker  : readlink("/proc/self/fd/48") failed: Permission denied [fd=48]
+01-15 00:55:27.497  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:27.497  3639  3659 E linker  : readlink("/proc/self/fd/48") failed: Permission denied [fd=48]
+01-15 00:55:27.497  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:27.564  3639  3659 E linker  : readlink("/proc/self/fd/48") failed: Permission denied [fd=48]
+01-15 00:55:27.564  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:30.176  3639  3659 E linker  : readlink("/proc/self/fd/46") failed: Permission denied [fd=46]
+01-15 00:55:30.176  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:30.177  3639  3659 E linker  : readlink("/proc/self/fd/46") failed: Permission denied [fd=46]
+01-15 00:55:30.177  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:30.177  3639  3659 E linker  : readlink("/proc/self/fd/46") failed: Permission denied [fd=46]
+01-15 00:55:30.177  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:30.202  3639  3639 I AppCompatViewInflater: app:theme is now deprecated. Please move to using android:theme instead.
+01-15 00:55:30.249  3639  3659 E linker  : readlink("/proc/self/fd/49") failed: Permission denied [fd=49]
+01-15 00:55:30.250  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:30.251  3639  3659 I MaliEGL : [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-15 00:55:30.251  3639  3659 I MaliEGL : [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-15 00:55:30.251  3639  3659 I MaliEGL : [Mali]max_allowed_dequeued_buffers=3
+01-15 00:55:30.349  3639  3639 D SwitcherService: onUnbind(intent=Intent { cmp=com.github.chenxiaolong.dualbootpatcher.snapshot/com.github.chenxiaolong.dualbootpatcher.switcher.SwitcherService })
+01-15 00:55:30.349  3639  3639 D SwitcherService: Attempting to stop service
+01-15 00:55:30.349  3639  3639 D SwitcherService: Calling stopSelf(): there are no more operations
+01-15 00:55:30.351  3639  3639 D SwitcherService: Added runnable com.github.chenxiaolong.dualbootpatcher.switcher.service.BootUIActionTask@bf7634b to thread pool: default
+01-15 00:55:30.351  3639  3639 D SwitcherService: onStartCommand(intent=Intent { cmp=com.github.chenxiaolong.dualbootpatcher.snapshot/com.github.chenxiaolong.dualbootpatcher.switcher.SwitcherService }, flags=0, startId=3)
+01-15 00:55:30.370  3639  3659 E linker  : readlink("/proc/self/fd/52") failed: Permission denied [fd=52]
+01-15 00:55:30.370  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:30.383  3639  3659 E linker  : readlink("/proc/self/fd/56") failed: Permission denied [fd=56]
+01-15 00:55:30.383  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:30.447  3639  3670 E linker  : readlink("/proc/self/fd/56") failed: Permission denied [fd=56]
+01-15 00:55:30.447  3639  3670 E linker  : warning: unable to get realpath for the library "/data/app/com.github.chenxiaolong.dualbootpatcher.snapshot-1/lib/arm/libjnidispatch.so". Will use given path.
+01-15 00:55:30.461  3639  3670 E linker  : readlink("/proc/self/fd/56") failed: Permission denied [fd=56]
+01-15 00:55:30.462  3639  3670 E linker  : warning: unable to get realpath for the library "/data/app/com.github.chenxiaolong.dualbootpatcher.snapshot-1/lib/arm/libmbdevice.so". Will use given path.
+01-15 00:55:30.464  3639  3670 E linker  : readlink("/proc/self/fd/57") failed: Permission denied [fd=57]
+01-15 00:55:30.464  3639  3670 E linker  : warning: unable to get realpath for the library "/data/app/com.github.chenxiaolong.dualbootpatcher.snapshot-1/lib/arm/libmbcommon.so". Will use given path.
+01-15 00:55:30.467  3639  3670 E linker  : readlink("/proc/self/fd/59") failed: Permission denied [fd=59]
+01-15 00:55:30.467  3639  3670 E linker  : warning: unable to get realpath for the library "/data/app/com.github.chenxiaolong.dualbootpatcher.snapshot-1/lib/arm/libc++_shared.so". Will use given path.
+01-15 00:55:30.676  3639  3670 D SwitcherService: Attempting to stop service
+01-15 00:55:30.676  3639  3670 D SwitcherService: Calling stopSelf(): there are no more operations
+01-15 00:55:32.175  3639  3659 E linker  : readlink("/proc/self/fd/44") failed: Permission denied [fd=44]
+01-15 00:55:32.175  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:32.177  3639  3659 E linker  : readlink("/proc/self/fd/44") failed: Permission denied [fd=44]
+01-15 00:55:32.177  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:32.179  3639  3659 E linker  : readlink("/proc/self/fd/44") failed: Permission denied [fd=44]
+01-15 00:55:32.179  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:32.225  3639  3639 I AppCompatViewInflater: app:theme is now deprecated. Please move to using android:theme instead.
+01-15 00:55:32.303  3639  3659 E linker  : readlink("/proc/self/fd/48") failed: Permission denied [fd=48]
+01-15 00:55:32.304  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:32.305  3639  3659 I MaliEGL : [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-15 00:55:32.305  3639  3659 I MaliEGL : [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-15 00:55:32.305  3639  3659 I MaliEGL : [Mali]max_allowed_dequeued_buffers=3
+01-15 00:55:32.391  3639  3639 D SwitcherService: onDestroy()
+01-15 00:55:32.393  3639  3639 D SwitcherService: onCreate()
+01-15 00:55:32.400  3639  3639 D SwitcherService: onBind(intent=Intent { cmp=com.github.chenxiaolong.dualbootpatcher.snapshot/com.github.chenxiaolong.dualbootpatcher.switcher.SwitcherService })
+01-15 00:55:32.403  3639  3639 D SwitcherService: onStartCommand(intent=Intent { cmp=com.github.chenxiaolong.dualbootpatcher.snapshot/com.github.chenxiaolong.dualbootpatcher.switcher.SwitcherService }, flags=0, startId=1)
+01-15 00:55:32.422  3639  3659 E linker  : readlink("/proc/self/fd/50") failed: Permission denied [fd=50]
+01-15 00:55:32.422  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:32.433  3639  3639 D SwitcherService: Added runnable com.github.chenxiaolong.dualbootpatcher.switcher.service.BootUIActionTask@6b3240a to thread pool: default
+01-15 00:55:32.436  3639  3659 E linker  : readlink("/proc/self/fd/55") failed: Permission denied [fd=55]
+01-15 00:55:32.436  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:32.704  3639  3740 D SwitcherService: Attempting to stop service
+01-15 00:55:32.704  3639  3740 D SwitcherService: Not stopping: # of operations: 0, is bound: true
+01-15 00:55:34.186  3639  3659 E linker  : readlink("/proc/self/fd/59") failed: Permission denied [fd=59]
+01-15 00:55:34.186  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:34.187  3639  3659 I MaliEGL : [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-15 00:55:34.187  3639  3659 I MaliEGL : [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-15 00:55:34.187  3639  3659 I MaliEGL : [Mali]max_allowed_dequeued_buffers=3
+01-15 00:55:34.202  3639  3659 E linker  : readlink("/proc/self/fd/44") failed: Permission denied [fd=44]
+01-15 00:55:34.203  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:34.237  3639  3639 I AppCompatViewInflater: app:theme is now deprecated. Please move to using android:theme instead.
+01-15 00:55:34.331  3639  3659 E linker  : readlink("/proc/self/fd/57") failed: Permission denied [fd=57]
+01-15 00:55:34.331  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:34.332  3639  3659 I MaliEGL : [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-15 00:55:34.332  3639  3659 I MaliEGL : [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-15 00:55:34.332  3639  3659 I MaliEGL : [Mali]max_allowed_dequeued_buffers=3
+01-15 00:55:34.392  3639  3659 E linker  : readlink("/proc/self/fd/62") failed: Permission denied [fd=62]
+01-15 00:55:34.392  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:34.418  3639  3659 E linker  : readlink("/proc/self/fd/61") failed: Permission denied [fd=61]
+01-15 00:55:34.419  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:34.436  3639  3659 E linker  : readlink("/proc/self/fd/57") failed: Permission denied [fd=57]
+01-15 00:55:34.436  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:34.437  3639  3659 E linker  : readlink("/proc/self/fd/51") failed: Permission denied [fd=51]
+01-15 00:55:34.437  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:34.437  3639  3659 E linker  : readlink("/proc/self/fd/49") failed: Permission denied [fd=49]
+01-15 00:55:34.438  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:34.439  3639  3659 D OpenGLRenderer: endAllActiveAnimators on 0x9d8cc100 (RippleDrawable) with handle 0x9e57c440
+01-15 00:55:34.570  3639  3639 D SwitcherService: onUnbind(intent=Intent { cmp=com.github.chenxiaolong.dualbootpatcher.snapshot/com.github.chenxiaolong.dualbootpatcher.switcher.SwitcherService })
+01-15 00:55:34.570  3639  3639 D SwitcherService: Attempting to stop service
+01-15 00:55:34.570  3639  3639 D SwitcherService: Calling stopSelf(): there are no more operations
+01-15 00:55:34.574  3639  3639 D SwitcherService: onDestroy()
+01-15 00:55:36.960  3639  3639 D SwitcherService: onCreate()
+01-15 00:55:36.971  3639  3639 D SwitcherService: onBind(intent=Intent { cmp=com.github.chenxiaolong.dualbootpatcher.snapshot/com.github.chenxiaolong.dualbootpatcher.switcher.SwitcherService })
+01-15 00:55:36.973  3639  3639 D SwitcherService: onStartCommand(intent=Intent { cmp=com.github.chenxiaolong.dualbootpatcher.snapshot/com.github.chenxiaolong.dualbootpatcher.switcher.SwitcherService }, flags=0, startId=1)
+01-15 00:55:37.512  3639  3639 D SwitcherService: Added runnable com.github.chenxiaolong.dualbootpatcher.switcher.service.GetRomsStateTask@2078d87 to thread pool: default
+01-15 00:55:37.593  3639  3763 E RomConfig: Failed to load /storage/emulated/0/MultiBoot/primary/config.json
+01-15 00:55:37.593  3639  3763 E RomConfig: java.io.FileNotFoundException: /storage/emulated/0/MultiBoot/primary/config.json (No such file or directory)
+01-15 00:55:37.593  3639  3763 E RomConfig: 	at java.io.FileInputStream.open(Native Method)
+01-15 00:55:37.593  3639  3763 E RomConfig: 	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+01-15 00:55:37.593  3639  3763 E RomConfig: 	at java.io.FileInputStream.<init>(FileInputStream.java:99)
+01-15 00:55:37.593  3639  3763 E RomConfig: 	at java.io.FileReader.<init>(FileReader.java:58)
+01-15 00:55:37.593  3639  3763 E RomConfig: 	at com.github.chenxiaolong.dualbootpatcher.RomConfig.loadFile(RomConfig.java:221)
+01-15 00:55:37.593  3639  3763 E RomConfig: 	at com.github.chenxiaolong.dualbootpatcher.RomConfig.getConfig(RomConfig.java:79)
+01-15 00:55:37.593  3639  3763 E RomConfig: 	at com.github.chenxiaolong.dualbootpatcher.RomUtils.loadConfig(RomUtils.java:300)
+01-15 00:55:37.593  3639  3763 E RomConfig: 	at com.github.chenxiaolong.dualbootpatcher.RomUtils.getRoms(RomUtils.java:275)
+01-15 00:55:37.593  3639  3763 E RomConfig: 	at com.github.chenxiaolong.dualbootpatcher.switcher.service.GetRomsStateTask.execute(GetRomsStateTask.java:71)
+01-15 00:55:37.593  3639  3763 E RomConfig: 	at com.github.chenxiaolong.dualbootpatcher.switcher.service.BaseServiceTask.run(BaseServiceTask.java:125)
+01-15 00:55:37.593  3639  3763 E RomConfig: 	at com.github.chenxiaolong.dualbootpatcher.ThreadPoolService$1.run(ThreadPoolService.java:181)
+01-15 00:55:37.593  3639  3763 E RomConfig: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+01-15 00:55:37.593  3639  3763 E RomConfig: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+01-15 00:55:37.593  3639  3763 E RomConfig: 	at java.lang.Thread.run(Thread.java:761)
+01-15 00:55:37.600  3639  3763 D RomUtils: mbtool says current ROM ID is: primary
+01-15 00:55:37.653  3639  3763 E SwitcherUtils: Failed to determine boot partition
+01-15 00:55:37.653  3639  3763 D GetRomsStateTask: It took 40 milliseconds to complete boot image checks
+01-15 00:55:37.654  3639  3763 D GetRomsStateTask: Current boot partition ROM ID: null
+01-15 00:55:37.654  3639  3763 D GetRomsStateTask: Kernel status: UNKNOWN
+01-15 00:55:37.655  3639  3763 D SwitcherService: Attempting to stop service
+01-15 00:55:37.655  3639  3763 D SwitcherService: Not stopping: # of operations: 0, is bound: true
+01-15 00:55:37.726  3639  3659 E linker  : readlink("/proc/self/fd/47") failed: Permission denied [fd=47]
+01-15 00:55:37.726  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:38.870  3639  3639 I AppCompatViewInflater: app:theme is now deprecated. Please move to using android:theme instead.
+01-15 00:55:38.890  3639  3639 W System.err: com.github.chenxiaolong.dualbootpatcher.Version$VersionParseException: Invalid version number: 
+01-15 00:55:38.893  3639  3639 W System.err: 	at com.github.chenxiaolong.dualbootpatcher.Version.parseVersion(Version.java:58)
+01-15 00:55:38.893  3639  3639 W System.err: 	at com.github.chenxiaolong.dualbootpatcher.Version.<init>(Version.java:50)
+01-15 00:55:38.893  3639  3639 W System.err: 	at com.github.chenxiaolong.dualbootpatcher.socket.MbtoolUtils.getSystemMbtoolVersion(MbtoolUtils.java:47)
+01-15 00:55:38.893  3639  3639 W System.err: 	at com.github.chenxiaolong.dualbootpatcher.switcher.RomDetailActivity.updateMbtoolStatus(RomDetailActivity.java:450)
+01-15 00:55:38.893  3639  3639 W System.err: 	at com.github.chenxiaolong.dualbootpatcher.switcher.RomDetailActivity.onCreate(RomDetailActivity.java:295)
+01-15 00:55:38.893  3639  3639 W System.err: 	at android.app.Activity.performCreate(Activity.java:6738)
+01-15 00:55:38.893  3639  3639 W System.err: 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1119)
+01-15 00:55:38.893  3639  3639 W System.err: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2652)
+01-15 00:55:38.893  3639  3639 W System.err: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2766)
+01-15 00:55:38.893  3639  3639 W System.err: 	at android.app.ActivityThread.-wrap12(ActivityThread.java)
+01-15 00:55:38.893  3639  3639 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1507)
+01-15 00:55:38.893  3639  3639 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-15 00:55:38.893  3639  3639 W System.err: 	at android.os.Looper.loop(Looper.java:154)
+01-15 00:55:38.893  3639  3639 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:6236)
+01-15 00:55:38.893  3639  3639 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-15 00:55:38.893  3639  3639 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:891)
+01-15 00:55:38.893  3639  3639 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:781)
+01-15 00:55:38.912  3639  3639 D SwitcherService: Added runnable com.github.chenxiaolong.dualbootpatcher.switcher.service.CacheWallpaperTask@adfdcd1 to thread pool: default
+01-15 00:55:38.913  3639  3639 D SwitcherService: Added runnable com.github.chenxiaolong.dualbootpatcher.switcher.service.GetRomDetailsTask@2c56237 to thread pool: default
+01-15 00:55:38.913  3639  3639 D SwitcherService: onStartCommand(intent=Intent { cmp=com.github.chenxiaolong.dualbootpatcher.snapshot/com.github.chenxiaolong.dualbootpatcher.switcher.SwitcherService }, flags=0, startId=2)
+01-15 00:55:38.963  3639  3659 E linker  : readlink("/proc/self/fd/61") failed: Permission denied [fd=61]
+01-15 00:55:38.963  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:38.965  3639  3659 I MaliEGL : [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-15 00:55:38.965  3639  3659 I MaliEGL : [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-15 00:55:38.965  3639  3659 I MaliEGL : [Mali]max_allowed_dequeued_buffers=3
+01-15 00:55:39.022  3639  3766 E CacheWallpaperTask: mbtool communication error
+01-15 00:55:39.022  3639  3766 E CacheWallpaperTask: java.io.FileNotFoundException: /storage/emulated/0/MultiBoot/primary/wallpaper.webp (No such file or directory)
+01-15 00:55:39.022  3639  3766 E CacheWallpaperTask: 	at java.io.FileOutputStream.open(Native Method)
+01-15 00:55:39.022  3639  3766 E CacheWallpaperTask: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:221)
+01-15 00:55:39.022  3639  3766 E CacheWallpaperTask: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:169)
+01-15 00:55:39.022  3639  3766 E CacheWallpaperTask: 	at com.github.chenxiaolong.dualbootpatcher.RomUtils.cacheWallpaper(RomUtils.java:443)
+01-15 00:55:39.022  3639  3766 E CacheWallpaperTask: 	at com.github.chenxiaolong.dualbootpatcher.switcher.service.CacheWallpaperTask.execute(CacheWallpaperTask.java:66)
+01-15 00:55:39.022  3639  3766 E CacheWallpaperTask: 	at com.github.chenxiaolong.dualbootpatcher.switcher.service.BaseServiceTask.run(BaseServiceTask.java:125)
+01-15 00:55:39.022  3639  3766 E CacheWallpaperTask: 	at com.github.chenxiaolong.dualbootpatcher.ThreadPoolService$1.run(ThreadPoolService.java:181)
+01-15 00:55:39.022  3639  3766 E CacheWallpaperTask: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+01-15 00:55:39.022  3639  3766 E CacheWallpaperTask: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+01-15 00:55:39.022  3639  3766 E CacheWallpaperTask: 	at java.lang.Thread.run(Thread.java:761)
+01-15 00:55:39.023  3639  3766 D SwitcherService: Attempting to stop service
+01-15 00:55:39.023  3639  3766 D SwitcherService: Not stopping: # of operations: 1, is bound: true
+01-15 00:55:39.258  3639  3659 E linker  : readlink("/proc/self/fd/62") failed: Permission denied [fd=62]
+01-15 00:55:39.258  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:39.453  3639  3659 E linker  : readlink("/proc/self/fd/72") failed: Permission denied [fd=72]
+01-15 00:55:39.454  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:39.545  3639  3659 E linker  : readlink("/proc/self/fd/51") failed: Permission denied [fd=51]
+01-15 00:55:39.545  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:39.546  3639  3659 E linker  : readlink("/proc/self/fd/51") failed: Permission denied [fd=51]
+01-15 00:55:39.546  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:39.547  3639  3659 E linker  : readlink("/proc/self/fd/50") failed: Permission denied [fd=50]
+01-15 00:55:39.547  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:39.548  3639  3659 E linker  : readlink("/proc/self/fd/50") failed: Permission denied [fd=50]
+01-15 00:55:39.548  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:40.344  3639  3763 D SwitcherService: Attempting to stop service
+01-15 00:55:40.344  3639  3763 D SwitcherService: Not stopping: # of operations: 0, is bound: true
+01-15 00:55:40.514  3639  3659 E linker  : readlink("/proc/self/fd/52") failed: Permission denied [fd=52]
+01-15 00:55:40.514  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:41.906  3639  3639 D SwitcherService: Added runnable com.github.chenxiaolong.dualbootpatcher.switcher.service.CreateRamdiskUpdaterTask@de48a99 to thread pool: default
+01-15 00:55:41.949  3639  3766 D CreateRamdiskUpdaterTask: Creating ramdisk updater zip for primary (version: 9.3.0.r330.g6e79cd83.PR963-SNAPSHOT)
+01-15 00:55:41.964  3639  3659 E linker  : readlink("/proc/self/fd/63") failed: Permission denied [fd=63]
+01-15 00:55:41.965  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:41.966  3639  3659 I MaliEGL : [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-15 00:55:41.966  3639  3659 I MaliEGL : [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-15 00:55:41.966  3639  3659 I MaliEGL : [Mali]max_allowed_dequeued_buffers=3
+01-15 00:55:41.968  3639  3766 D RomUtils: mbtool says current ROM ID is: primary
+01-15 00:55:41.980  3639  3659 E linker  : readlink("/proc/self/fd/59") failed: Permission denied [fd=59]
+01-15 00:55:41.980  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:41.997  3639  3659 E linker  : readlink("/proc/self/fd/65") failed: Permission denied [fd=65]
+01-15 00:55:41.997  3639  3659 E linker  : warning: unable to get realpath for the library "/system/lib/hw/gralloc.mt6582.so". Will use given path.
+01-15 00:55:42.031  3639  3766 E MbtoolInterfaceV3: Failed to determine boot partition
+01-15 00:55:42.032  3639  3766 E CreateRamdiskUpdaterTask: Failed to reflash boot image
+01-15 00:55:42.032  3639  3766 E CreateRamdiskUpdaterTask: The kernel has not been backed up
